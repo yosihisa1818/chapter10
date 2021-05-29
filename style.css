@@ -65,7 +65,7 @@ main {
   background-size: cover;
 }
 
-.flexbox {
+.flex {
   display: flex;
 }
 
@@ -88,7 +88,7 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
-  .flexbox {
+  .flex {
     display: block;
   }
 
